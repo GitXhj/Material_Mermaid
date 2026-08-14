@@ -1,2 +1,2 @@
-# Material_Mermaid
-An AI-powered Mermaid diagram tool built with Material-UI. Open-source under the MIT License. Star ⭐ if you like it!
+# AI Mermaid Tool 🧜‍♂️✨
+An AI-powered diagram generation tool, Material-UI (MUI), and Mermaid.js. Create clean, professional flowcharts, sequence diagrams, and more using natural language—completely ad-free and open-source!
